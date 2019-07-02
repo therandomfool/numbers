@@ -15,9 +15,8 @@ console.log(`MULTIPLICATION ${a} * ${b} = ${mult}`);
 console.log(`DIVISION ${a} / ${b} = ${div.toFixed(2)}`);
 console.log(`SUBTRACTION ${a} - ${b} = ${sub}`);
 
-
+// basic number iteration/counting
 let x = 0;
-
 
 for (let z = 0; z < 20; z++) {
     x++;
